@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm MatiasMunk.</h1>
 
-You can use the [editor on GitHub](https://github.com/MatiasMunk/matiasmunk.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# 👨🏻‍💻 About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+💡  26 year old computer game & graphics programming enthusiast, I mostly enjoy computer graphics and learning different graphics APIs\
+🎓  I'm currently studying computer science.\
+🌱  Currently learning networked programming and advanced low-level programming with C and the Vulkan graphics API, as well as D3D12 with C++\
+✍️  In whatever free time I can find, I enjoy spending time with my girlfriend and watching movies.
 
-### Markdown
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MatiasMunk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)\
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatiasMunk&layout=compact&langs_count=8&theme=algolia)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 🛠 Technologies I use
 
-```markdown
-Syntax highlighted code block
+![C](https://img.shields.io/badge/-C99-05122A?style=flat&logo=c&logoColor=563D7C)&nbsp;
+![C++](https://img.shields.io/badge/-C++17-05122A?style=flat&logo=c&logoColor=563D7C)&nbsp;
+![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=35518b)&nbsp;
+![OpenGL](https://img.shields.io/badge/-OpenGL-05122A?style=flat&logo=opengl)&nbsp;
+![Vulkan](https://img.shields.io/badge/-Vulkan-05122A?style=flat&logo=vulkan)&nbsp;
+![Allegro](https://img.shields.io/badge/-Allegro%205-05122A?style=flat&logo=dev)&nbsp;
+![SFML](https://img.shields.io/badge/-SFML-05122A?style=flat&logo=sfml)&nbsp;
+![SDL](https://img.shields.io/badge/-SDL-05122A?style=flat&logo=sdl)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublimetext)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)&nbsp;
+![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=MicrosoftAzure&logoColor=007fff)&nbsp;
 
-# Header 1
-## Header 2
-### Header 3
+# Socials
+- Twitter: MatiasMunk
+- Discord: MatiasMunk#6199
 
-- Bulleted
-- List
+# Misc information
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MatiasMunk/matiasmunk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Nothing yet.
